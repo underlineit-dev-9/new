@@ -97,11 +97,13 @@ console.log(course.title)
 
 */
 
+
+// this is 100th line from sai branch
+
 // this is 100 th line from main branch
 // sai kumar
 
 //done by sidhu
-
 function getRandomCard(){
     let cardsData=[2,3,4,5,6,7,8,9,10,10,10,10,11]
     
