@@ -96,7 +96,10 @@ console.log(course.lessons)
 console.log(course.title)
 
 */
+
 // sai kumar
+
+//done by sidhu
 
 function getRandomCard(){
     let cardsData=[2,3,4,5,6,7,8,9,10,10,10,10,11]
