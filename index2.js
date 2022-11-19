@@ -97,7 +97,7 @@ console.log(course.title)
 
 */
 
-
+// this is 100th line from sai branch
 function getRandomCard(){
     let cardsData=[2,3,4,5,6,7,8,9,10,10,10,10,11]
     
